@@ -10,8 +10,8 @@
 - [Data](): originated from [Lee et al.]() and [Mani et al.]()
 
 ## Methodology: 
-- [CLA/CLAFI+ML](https://github.com/lifove/CLAMI) JAVA implementation from [Nam et. al](https://dl.acm.org/doi/abs/10.1109/ASE.2015.56)'s CLAMI: defect prediction on unlabeled datasets
-- FRUGAL: 
+- [CLA/CLAFI+ML](https://github.com/lifove/CLAMI) JAVA implementation from [Nam et. al](https://dl.acm.org/doi/abs/10.1109/ASE.2015.56)'s CLAMI: defect prediction on unlabeled datasets.
+- ![FRUGAL](/CLA_4.png): FRUGAL finds the best combination of unsupervised learners = {CLA, CLA+ML, CLAFI+ML} and 𝐶 = {5% to 95% increments by 5%}. 
 
 
 
