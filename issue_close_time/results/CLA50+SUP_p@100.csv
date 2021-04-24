@@ -1,0 +1,6 @@
+Treatment,chromium,firefox,eclipse
+LR,0.62,0.85,0.69
+DT,0.55,0.68,0.71
+RF,0.68,0.81,0.61
+SVM,0.61,0.83,0.69
+NB,0.63,0.62,0.43
