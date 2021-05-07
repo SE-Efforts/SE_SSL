@@ -18,3 +18,9 @@
 
 
 ## How To Run: 
+- ICT:
+```cd issue_close_time; python clami.py get_CLAGRID```
+
+- SWA: 
+
+```cd intrinsic_dimension; python clami.py get_CLAGRID```
