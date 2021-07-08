@@ -1,5 +1,9 @@
 # FRUGAL: Unlocking SSL for Software Analytics
 
+## Preprint: 
+[FRUGAL paper](https://github.com/SE-Efforts/SE_SSL/blob/main/FRUGAL.pdf)
+
+
 ## Case Studies:
 
 [1] [Static Warning Analysis](https://link.springer.com/article/10.1007/s10664-021-09948-6): Learning to recognize actionable static code warnings (is intrinsically easy)
